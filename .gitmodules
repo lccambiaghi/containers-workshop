@@ -1,0 +1,6 @@
+[submodule "namer"]
+	path = namer
+	url = https://github.com/jpetazzo/namer.git
+[submodule "trainingwheels"]
+	path = trainingwheels
+	url = https://github.com/jpetazzo/trainingwheels.git
